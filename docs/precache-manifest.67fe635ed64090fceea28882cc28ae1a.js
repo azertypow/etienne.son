@@ -12,19 +12,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://azertypow.github.io/etienne.son/3Minencial_Mijaba_Mix.wav"
   },
   {
-    "revision": "17974a24493f44cfad37",
-    "url": "https://azertypow.github.io/etienne.son/css/app.11a0a3ef.css"
+    "revision": "36f442c821b883ab63ab",
+    "url": "https://azertypow.github.io/etienne.son/css/app.d8e1048f.css"
   },
   {
     "revision": "52bc1d7c6e40207d68b6184b4f1afe74",
     "url": "https://azertypow.github.io/etienne.son/img/APPS2_SOUND@2x.52bc1d7c.png"
   },
   {
-    "revision": "b8272fcc002232da13a3645cf89e9348",
+    "revision": "c486969087090895d862e3f2038615fb",
     "url": "https://azertypow.github.io/etienne.son/index.html"
   },
   {
-    "revision": "17974a24493f44cfad37",
+    "revision": "36f442c821b883ab63ab",
     "url": "https://azertypow.github.io/etienne.son/js/app.f421460c.js"
   },
   {
