@@ -24,9 +24,9 @@ export default defineComponent({
 
   data() {
     return {
-      // audio_1: new Audio("1Minencial_Gym_Mix.wav"),
-      // audio_2: new Audio("2Minencial_Blade_Mix.wav"),
-      // audio_3: new Audio("3Minencial_Mijaba_Mix.wav"),
+      audio_1: new Audio("1Minencial_Gym_Mix.wav"),
+      audio_2: new Audio("2Minencial_Blade_Mix.wav"),
+      audio_3: new Audio("3Minencial_Mijaba_Mix.wav"),
     }
   },
 
