@@ -16,13 +16,17 @@ import {defineComponent, PropType} from "vue"
 
 export default defineComponent({
 
+  mounted() {
+    this.audio_3.addEventListener("load", console.log("loaded"))
+  },
+
   name: 'Home',
 
   data() {
     return {
-      audio_1: new Audio("1Minencial_Gym_Mix.wav"),
-      audio_2: new Audio("2Minencial_Blade_Mix.wav"),
-      audio_3: new Audio("3Minencial_Mijaba_Mix.wav"),
+      // audio_1: new Audio("1Minencial_Gym_Mix.wav"),
+      // audio_2: new Audio("2Minencial_Blade_Mix.wav"),
+      // audio_3: new Audio("3Minencial_Mijaba_Mix.wav"),
     }
   },
 
@@ -97,8 +101,8 @@ export default defineComponent({
   z-index: 1000;
   position: fixed;
   width: 640px;
-  height: 80px;
-  background-color: red;
+  height: 85px;
+  //background-color: red;
 }
 
 .v-sound-1 {
@@ -112,7 +116,7 @@ export default defineComponent({
 }
 
 .v-sound-3 {
-  top: 505px;
+  top: 495px;
   left: 198px;
 }
 </style>ts
