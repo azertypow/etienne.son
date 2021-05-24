@@ -98,7 +98,7 @@ export default defineComponent({
   position: fixed;
   width: 640px;
   height: 80px;
-  //background-color: red;
+  background-color: red;
 }
 
 .v-sound-1 {
